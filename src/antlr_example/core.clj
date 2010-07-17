@@ -25,8 +25,3 @@
         (cons txt children)
         children))))
 
-(defn evaluate [x]
-  (if (vector? x)
-    (apply (resolve (symbol (first x)))
-           (map evaluate (rest x)))
-    (bigint x)))
