@@ -2,7 +2,7 @@
 
 A simple example of using ANTLR from Clojure.
 
-See http://briancarper.net/blog/554/antlr-via-clojure for a detailed walkthrough of this code.
+See [my blog](http://briancarper.net/blog/554/antlr-via-clojure) for a detailed walkthrough of this code.
 
 # Install
 
